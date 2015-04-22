@@ -1,3 +1,6 @@
+Awesome range slider
+--------------------
+
 Angular directive slider control.
 
 **No JQUERY dependency needed anymore**
