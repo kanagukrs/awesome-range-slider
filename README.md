@@ -7,7 +7,7 @@ Angular directive slider control.
 
 **Skins available**
 
-Welcome to a fork from awesome job of Egor Khmelev https://github.com/darul75/ng-slider
+Welcome to a fork from awesome job of Julien Valéry https://github.com/darul75/ng-slider
 
 How to use it
 -------------
